@@ -1,2 +1,2 @@
 # Hello kottans-frontend
-#my name Yaroslav
+my name Yaroslav
