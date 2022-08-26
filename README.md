@@ -68,6 +68,6 @@ Here I will mark my progress and report on the progress of my training.
 
 </details>
 <details><summary>Linux</summary>
-### Interesting operating system, need more practice.
+ Interesting operating system, need more practice.
 </details>
 
