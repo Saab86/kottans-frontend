@@ -49,22 +49,22 @@ Here I will mark my progress and report on the progress of my training.
 # Linux, Command Line, HTTP Tools
 <details><summary>Screenshot of Quiz 1</summary>
 
-![Screenshot of Quiz 1](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_linux_cli/linux%20Quiz%201.jpg)
+![Screenshot of Quiz 1](https://github.com/Saab86/kottans-frontend/blob/main/task_linux_cli/Linux_1.jpg)
 
 </details>
 <details><summary>Screenshot of Quiz 2</summary>
 
-![Screenshot of Quiz 2](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_linux_cli/linux%20Quiz%202.jpg)
+![Screenshot of Quiz 2](https://github.com/Saab86/kottans-frontend/blob/main/task_linux_cli/Linux_2.jpg)
 
 </details>
 <details><summary>Screenshot of Quiz 3</summary>
 
-![Screenshot of Quiz 3](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_linux_cli/linux%20Quiz%203.jpg)
+![Screenshot of Quiz 3](https://github.com/Saab86/kottans-frontend/blob/main/task_linux_cli/Linux_3.jpg)
 
 </details>
 <details><summary>Screenshot of Quiz 4</summary>
 
-![Screenshot of Quiz 4](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task_linux_cli/linux%20Quiz%204.jpg)
+![Screenshot of Quiz 4](https://github.com/Saab86/kottans-frontend/blob/main/task_linux_cli/Linux_4.jpg)
 
 </details>
 <details><summary>Linux</summary>
