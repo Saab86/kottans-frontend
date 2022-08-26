@@ -31,12 +31,14 @@ Here I will mark my progress and report on the progress of my training.
 
 # Git and GitHub
 ### Learned the commands Git. Learned to interact with branches.
-<details><summary>Git</summary>
+<details><summary>Git </summary>
 
-![Screenshot git-base](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task-git/git-base.jpg)
+![Screenshot git-base](https://github.com/Saab86/kottans-frontend/blob/main/task_git_basis/Git_basic.jpg)
+![Screenshot git-week1](https://github.com/Saab86/kottans-frontend/blob/main/task_git_basis/Week_1.jpg)
+![Screenshot git-week2](https://github.com/Saab86/kottans-frontend/blob/main/task_git_basis/Week_2.jpg)
 
 </details>
-<details><summary>Screenshot of Quiz 1</summary>
+<details><summary>Screenshot of git 2</summary>
 
 ![Screenshot git-repo](https://github.com/shkrobutandriy/kottans-frontend/blob/main/task-git/git-repo.jpg)
 
