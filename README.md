@@ -74,3 +74,11 @@ Here I will mark my progress and report on the progress of my training.
 ---
 
 # VCS (hello gitty), GitHub and Collaboration
+### Learned the commands Git for colloboration.
+<details><summary>Git colloboration </summary>
+
+![Screenshot git-2](https://github.com/Saab86/kottans-frontend/blob/main/task_git_collaboration/Git_2.jpg)
+![Screenshot git-week3](https://github.com/Saab86/kottans-frontend/blob/main/task_git_collaboration/Week_3.jpg)
+![Screenshot git-week4](https://github.com/Saab86/kottans-frontend/blob/main/task_git_collaboration/Week_4.jpg)
+
+</details>
