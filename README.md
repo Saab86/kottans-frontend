@@ -2,7 +2,7 @@
 # kottans-frontend
 
 <details><summary>About me</summary>
-### Hello! My name is Yaroslav. I'm 35 years old, I live in Ternopil oblas't.
+Hello! My name is Yaroslav. I'm 35 years old, I live in Ternopil oblas't.
 </details>
 This repository is created for study [kottans-frontend](https://github.com/kottans/frontend/blob/2022_UA/README.md).
 Here I will mark my progress and report on the progress of my training.
@@ -71,3 +71,6 @@ Here I will mark my progress and report on the progress of my training.
  Interesting operating system, need more practice.
 </details>
 
+---
+
+# VCS (hello gitty), GitHub and Collaboration
