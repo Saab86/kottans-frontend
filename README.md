@@ -83,6 +83,8 @@ Here I will mark my progress and report on the progress of my training.
 
 </details>
 
+---
+
 # Intro to HTML & CSS
 ### Вивчив основви HTML та CSS.
 <details><summary>Intro to HTML & CSS
