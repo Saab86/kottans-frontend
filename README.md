@@ -30,7 +30,7 @@ Here I will mark my progress and report on the progress of my training.
 ---
 
 # Git and GitHub
-### Learned the commands Git. Learned to interact with branches.
+### Вивчив команди Git. Learned to interact with branches.
 <details><summary>Git </summary>
 
 ![Screenshot git-base](https://github.com/Saab86/kottans-frontend/blob/main/task_git_basis/Git_basic.jpg)
@@ -68,13 +68,13 @@ Here I will mark my progress and report on the progress of my training.
 
 </details>
 <details><summary>Linux</summary>
- Interesting operating system, need more practice.
+ Цікава операційна система, потрібно більше практики
 </details>
 
 ---
 
 # VCS (hello gitty), GitHub and Collaboration
-### Learned the commands Git for colloboration.
+### Вивчив команди Git для командної роботи.
 <details><summary>Git colloboration </summary>
 
 ![Screenshot git-2](https://github.com/Saab86/kottans-frontend/blob/main/task_git_collaboration/Git_2.jpg)
@@ -82,3 +82,14 @@ Here I will mark my progress and report on the progress of my training.
 ![Screenshot git-week4](https://github.com/Saab86/kottans-frontend/blob/main/task_git_collaboration/Week_4.jpg)
 
 </details>
+
+# Intro to HTML & CSS
+### Вивчив основви HTML та CSS.
+<details><summary>Intro to HTML & CSS
+ </summary>
+
+![Screenshot first_week](https://github.com/Saab86/kottans-frontend/blob/main/Intro%20to%20HTML%20and%20CSS/First_week_HTML.jpg)
+![Screenshot second_week](https://github.com/Saab86/kottans-frontend/blob/main/Intro%20to%20HTML%20and%20CSS/Second_week_HTML.jpg)
+![Screenshot learn_html](https://github.com/Saab86/kottans-frontend/blob/main/Intro%20to%20HTML%20and%20CSS/Learn_HTML.jpg)
+![Screenshot learn_css](https://github.com/Saab86/kottans-frontend/blob/main/Intro%20to%20HTML%20and%20CSS/Learn_CSSjpg.jpg)
+
