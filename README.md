@@ -95,3 +95,24 @@ Here I will mark my progress and report on the progress of my training.
 ![Screenshot learn_html](https://github.com/Saab86/kottans-frontend/blob/main/Intro%20to%20HTML%20and%20CSS/Learn_HTML.jpg)
 ![Screenshot learn_css](https://github.com/Saab86/kottans-frontend/blob/main/Intro%20to%20HTML%20and%20CSS/Learn_CSSjpg.jpg)
 
+---
+
+# Intro to HTML & CSS
+### Вивчив основви HTML та CSS.
+<details><summary>Intro to HTML & CSS
+ </summary>
+
+![Screenshot first_week](https://github.com/Saab86/kottans-frontend/blob/main/Intro%20to%20HTML%20and%20CSS/First_week_HTML.jpg)
+![Screenshot second_week](https://github.com/Saab86/kottans-frontend/blob/main/Intro%20to%20HTML%20and%20CSS/Second_week_HTML.jpg)
+![Screenshot learn_html](https://github.com/Saab86/kottans-frontend/blob/main/Intro%20to%20HTML%20and%20CSS/Learn_HTML.jpg)
+![Screenshot learn_css](https://github.com/Saab86/kottans-frontend/blob/main/Intro%20to%20HTML%20and%20CSS/Learn_CSSjpg.jpg)
+
+# Responsive web design
+
+### Повторив Faxbox та CSS grid, оскільки вже трішки був знайомий з ними. Сподобались Flexbox froggy та Grid garden.
+
+<details><summary>Responsive web design
+ </summary>
+
+![Screenshot first_week]()
+![Screenshot second_week]()
