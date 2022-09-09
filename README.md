@@ -94,9 +94,9 @@ Here I will mark my progress and report on the progress of my training.
 ![Screenshot second_week](https://github.com/Saab86/kottans-frontend/blob/main/Intro%20to%20HTML%20and%20CSS/Second_week_HTML.jpg)
 ![Screenshot learn_html](https://github.com/Saab86/kottans-frontend/blob/main/Intro%20to%20HTML%20and%20CSS/Learn_HTML.jpg)
 ![Screenshot learn_css](https://github.com/Saab86/kottans-frontend/blob/main/Intro%20to%20HTML%20and%20CSS/Learn_CSSjpg.jpg)
+</details>
 
 ---
-
 
 # Responsive web design
 
@@ -107,3 +107,4 @@ Here I will mark my progress and report on the progress of my training.
 
 ![Screenshot first_week](https://github.com/Saab86/kottans-frontend/blob/main/task_responsive_web_design/flexbox_froggy.jpg)
 ![Screenshot second_week](https://github.com/Saab86/kottans-frontend/blob/main/task_responsive_web_design/Grid_garden.jpg)
+</details>
