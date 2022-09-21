@@ -16,7 +16,7 @@ Here I will mark my progress and report on the progress of my training.
 - [x] **VCS (hello gitty), GitHub and Collaboration**
 - [x] **Intro to HTML & CSS**
 - [x] **Responsive Web Design**
-- [ ] **HTML & CSS Practice**
+- [x] **HTML & CSS Practice**
 - [ ] **JavaScript Basics**
 - [ ] **Document Object Model - practice**
 - [ ] **Building a Tiny JS World (pre-OOP) - practice**
@@ -108,3 +108,9 @@ Here I will mark my progress and report on the progress of my training.
 ![Screenshot first_week](https://github.com/Saab86/kottans-frontend/blob/main/task_responsive_web_design/flexbox_froggy.jpg)
 ![Screenshot second_week](https://github.com/Saab86/kottans-frontend/blob/main/task_responsive_web_design/Grid_garden.jpg)
 </details>
+
+---
+### HTML_CSS_POPUP
+
+[Demo](https://saab86.github.io/app_popup/ )|
+[Code base](https://github.com/Saab86/app_popup)
