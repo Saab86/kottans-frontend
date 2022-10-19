@@ -17,7 +17,7 @@ Here I will mark my progress and report on the progress of my training.
 - [x] **Intro to HTML & CSS**
 - [x] **Responsive Web Design**
 - [x] **HTML & CSS Practice**
-- [ ] **JavaScript Basics**
+- [x] **JavaScript Basics**
 - [ ] **Document Object Model - practice**
 - [ ] **Building a Tiny JS World (pre-OOP) - practice**
 - [ ] **Object oriented JS - practice**
@@ -110,7 +110,15 @@ Here I will mark my progress and report on the progress of my training.
 </details>
 
 ---
-### HTML_CSS_POPUP
+# HTML_CSS_POPUP
+
+### Засвоїв на практиці основи HTML та CSS
 
 [Demo](https://saab86.github.io/app_popup/ )|
 [Code base](https://github.com/Saab86/app_popup)
+
+---
+
+### JS Basics
+
+
