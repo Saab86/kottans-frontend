@@ -119,6 +119,18 @@ Here I will mark my progress and report on the progress of my training.
 
 ---
 
-### JS Basics
+# JS Basics
 
+### Вивчив основи JS опанував роботу з масивами і обєктами та методами роботи з ними
 
+<details><summary> JS Basics
+ </summary>
+
+![Screenshot 4week](https://github.com/Saab86/kottans-frontend/blob/main/task_JS_Basics/introToJS.jpg)
+![Screenshot basicJS](https://github.com/Saab86/kottans-frontend/blob/main/task_JS_Basics/osnovJs.jpg)
+![Screenshot ES6](https://github.com/Saab86/kottans-frontend/blob/main/task_JS_Basics/es6.jpg
+![Screenshot basicDataStruct](https://github.com/Saab86/kottans-frontend/blob/main/task_JS_Basics/struct.jpg)
+![Screenshot basicalgoritm](https://github.com/Saab86/kottans-frontend/blob/main/task_JS_Basics/algoritm.jpg)
+![Screenshot functional](https://github.com/Saab86/kottans-frontend/blob/main/task_JS_Basics/functional.jpg)
+
+</details>
